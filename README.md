@@ -1,2 +1,3 @@
-# react-pagination-sample
+# Pagination
+
 Created with CodeSandbox
